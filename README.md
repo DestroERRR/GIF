@@ -1,14 +1,16 @@
-# GIF
-Programming 11 GIF Project
+
 
 /* Programming 11
+
   GIF Project
+  
   Jason.Shi April,18,2020
+  
 */
 
 ArrayList<PImage> gif;
+  
 int pic = 0;
-
 
 void setup(){
 
